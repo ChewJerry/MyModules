@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/buttonC346"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c346_android_programming" />
+
+    <Button
+        android:id="@+id/buttonC203"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/c203_web_application_development" />
+</LinearLayout>
+
