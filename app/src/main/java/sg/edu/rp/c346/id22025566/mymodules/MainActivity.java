@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         modules[] arrayC203= new modules[6];
-        arrayC203[0]= new modules("C203", "Android Programming", 2020, 1, 4, "W66M");
+        arrayC203[0]= new modules("C203", "Web Application Development", 2020, 1, 4, "W66M");
 
         btnC346=findViewById(R.id.buttonC346);
         btnC203=findViewById(R.id.buttonC203);
